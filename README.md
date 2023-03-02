@@ -1,2 +1,2 @@
 # Hello-world
-lab one in the githup
+lab one in the github account 
